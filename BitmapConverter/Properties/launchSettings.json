@@ -1,8 +1,7 @@
 {
   "profiles": {
     "BitmapConverter": {
-      "commandName": "Project",
-      "commandLineArgs": "\"C:\\Users\\greg\\OneDrive\\Pictures\\Eldoria Art\\Exports\\River Road Base\""
+      "commandName": "Project"
     }
   }
 }
